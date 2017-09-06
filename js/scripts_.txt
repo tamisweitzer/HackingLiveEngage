@@ -1,0 +1,6 @@
+
+JQuery Min
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous"></script>
+
+SPServices
+<script language="javascript" type="text/javascript" src="/jQueryLibraries/jquery.SPServices-2014.02.min.js"></script>
